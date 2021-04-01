@@ -46,18 +46,18 @@ _comments:
 ---
 March 31st, 2021
 
-Arctic Security publishes&nbsp;[Arctic NODE](https://aws.amazon.com/marketplace/pp/B08W9K7TLK) in AWS Marketplace as a SaaS service for global markets. SaaS NODE provides a quick and easy way to tap into early warnings provided by your cyber security authority or Arctic Security.
+Arctic Security publishes&nbsp;[Arctic NODE](https://aws.amazon.com/marketplace/pp/B08W9K7TLK) in AWS Marketplace as a SaaS service for global markets. SaaS NODE provides a quick and easy way to tap into early warnings available for you through your cyber security authority as well as Arctic Security and its partners.
 
 In many countries, cyber security authorities are producing targeted cyber threat notifications as an early warning service to their critical infrastructure organizations. Arctic Security is a long-term pioneer in this field, providing technology and products that produce those services. Targeted warnings help all organizations and enterprises to fix acute cyber security issues within their infrastructure.
 
-The NODE product integrates with the early warning service available through many cyber security authorities. To complement the public services and make them available everywhere, Arctic Security provides a cost-effective [Early Warning Service (EWS)](https://arcticsecurity.com/material/arctic-security-ews.pdf)&nbsp;based on high-quality commercial data. NODE users can easily tap into one or several available services, which help you identify vulnerable services and compromised systems in your networks.
+The NODE product integrates with the early warning service available through many cyber security authorities and security service providers collaborating with Arctic Security. To complement these services and to make them available everywhere, Arctic Security provides a cost-effective [Early Warning Service (EWS)](https://arcticsecurity.com/material/arctic-security-ews.pdf)based on high-quality commercial data. NODE users can easily tap into one or several available services, which help you identify vulnerable services and compromised systems in your networks.
 
 Arctic NODE provides an asset management feature that allows you to pinpoint the affected networks and systems based on the received data. You can display, store, and integrate information into your other security products and systems. Arctic NODE helps organizations of all sizes improve their security posture and to respond to incidents promptly.
 
 Arctic NODE provides you with easy access to:
 
-* Receiving targeted and timely threat information from your National Cyber Security Centre and CERT, where available, and Arctic’s EWS&nbsp;
-* Processing cyber threat data and matching it against your networks&nbsp;
+* Receiving targeted and timely threat information that helps you to defend your systems. Such information is available from National Cyber Security Centres, CERTs, and from the Early Warning Service provided by Arctic Security and its partners
+* Processing cyber threat data and matching it against your networks
 * Prioritizing alerts based on the type of your network and the category of the findings
 * Sharing and integrating threat information flow automatically with your existing security solutions
 
