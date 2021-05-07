@@ -50,6 +50,8 @@ _comments:
   form_thankyou_title: Fill if using downloadable content
   form_thankyou_description: Fill if using downloadable content
 ---
+May 7th, 2021
+
 Cyber criminals are already aware of the known weaknesses in networks, services, and devices. Wouldn’t you want to be on the same page with them to stay protected? Early Warning Service (EWS) carries out early detection of the potential threats to a system, highlighting the scope for malicious behavior so that you can take appropriate corrective actions.
 
 ## **Threat Data Processing**
