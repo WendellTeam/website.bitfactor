@@ -54,7 +54,7 @@ Cyber criminals are already aware of the known weaknesses in networks, services,
 
 ## **Threat Data Processing**
 
-EWS service automatically collects and processes daily over 5 000 000 observations of cyber incidents and threats worldwide. Observations are collected from over 100 external sources. This information can be hard to come by, and having access to it can be costly. Responding timely to threats requires fully automated large-scale data collection, processing, and targeted incident notification.&nbsp;
+EWS automatically collects and processes daily over 5 000 000 observations of cyber incidents and threats worldwide. Observations are collected from over 100 external sources. This information can be hard to come by, and having access to it can be costly. Responding timely to threats requires fully automated large-scale data collection, processing, and targeted incident notification.&nbsp;
 
 ## **Why use this many sources? &nbsp;**
 
