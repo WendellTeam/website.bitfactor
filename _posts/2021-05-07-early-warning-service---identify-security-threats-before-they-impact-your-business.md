@@ -80,7 +80,7 @@ Cyber security information collected by EWS contains compromised hosts and vulne
 
 Early Warning Service automatically finds unattended known security problems that put your organization in danger.&nbsp;
 
-* Periodic notifications about your issues to help you to catch incidents that have passed through other security measures. EWS gives visibility of issues that could be leveraged to effect a breach
+* Periodic notifications about your issues to help you to catch incidents that have passed through other security measures. EWS gives visibility of issues that could be leveraged to effect a breach.
 * Helps you quickly recognize and prioritize risks and reduce time to discovery when the ready-to-use information is handed out to you
 * Easy to set up and maintain: you tell your assets and start receiving information without complicated configuration or installation processes
 * Centralized: Covers your whole network infrastructure and services, including those running in the cloud
