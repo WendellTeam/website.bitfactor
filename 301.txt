@@ -2,4 +2,4 @@
 /abusesa.html /products/
 /arctic-hub.html /products/
 /open-positions.html /about/
-/educause /
+/educause/ /
