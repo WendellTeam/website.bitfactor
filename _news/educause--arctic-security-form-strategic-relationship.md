@@ -8,8 +8,8 @@ news_category:
   - press_release
 writer:
   employees:
-og_image_path: /images/content/istock-533534123.jpg
-twitter_image_path: /images/content/istock-533534123.jpg
+og_image_path: /images/content/iStock-533534121_edited.jpg
+twitter_image_path: /images/content/iStock-533534121_edited.jpg
 og_title: 'EDUCAUSE & Arctic Security form Strategic Relationship '
 og_description: "Arctic Security is pleased to announce that EDUCAUSE is bringing\_ (EWS) Early Warning Service (EWS) to its member schools to help improve their security posture.\_ EWS automatically alerts subscribers about vulnerabilities and suspected compromised hosts visible on their computer networks. "
 _comments:
